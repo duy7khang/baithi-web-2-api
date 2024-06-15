@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBook187", "ShopBook187.csproj", "{4A915619-C5C2-436E-B40E-047FE1B4DCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBook187MVC", "..\ShopBook187MVC\ShopBook187MVC.csproj", "{4FB774EE-C876-4585-9CAE-41D70AC87AEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FEEBD047-86C8-4CC7-ACAC-F2EBF287735C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A915619-C5C2-436E-B40E-047FE1B4DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A915619-C5C2-436E-B40E-047FE1B4DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A915619-C5C2-436E-B40E-047FE1B4DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A915619-C5C2-436E-B40E-047FE1B4DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB774EE-C876-4585-9CAE-41D70AC87AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB774EE-C876-4585-9CAE-41D70AC87AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB774EE-C876-4585-9CAE-41D70AC87AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB774EE-C876-4585-9CAE-41D70AC87AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7F8E51-486F-4D69-AE2C-47A4A471513B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShopBook187.props" />
+</Project>
