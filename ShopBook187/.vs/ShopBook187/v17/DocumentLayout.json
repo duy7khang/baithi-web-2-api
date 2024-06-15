@@ -1,131 +1,131 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\royal\\source\\repos\\ShopBook187\\",
+  "WorkspaceRootPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\controllers\\account controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\controllers\\account controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:controllers\\account controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\registervviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\data\\booksapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\data\\booksapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:data\\booksapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\models\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\models\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:models\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\models\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\models\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:models\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB774EE-C876-4585-9CAE-41D70AC87AEA}|..\\ShopBook187MVC\\ShopBook187MVC.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\migrations\\booksapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\migrations\\booksapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:migrations\\booksapidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187\\migrations\\20240615083034_bookshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|c:\\users\\royal\\source\\repos\\shopbook187mvcapi\\shopbook187\\migrations\\20240615083034_bookshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A915619-C5C2-436E-B40E-047FE1B4DCCB}|ShopBook187.csproj|solutionrelative:migrations\\20240615083034_bookshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\UserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\RegisterVviewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\BookViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\BookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\CartViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Book\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -155,63 +155,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\UserViewModel.cs",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\UserViewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\UserViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:41:05.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T14:41:05.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T14:45:40.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T14:45:40.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAQAAAAAAAAAAAAcwBgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T14:46:05.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T14:46:05.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:42:37.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T14:42:37.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Account Controller.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\Account Controller.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\Account Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Account Controller.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\Account Controller.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\Account Controller.cs",
               "RelativeToolTip": "Controllers\\Account Controller.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAmwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,265 +216,251 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "RegisterVviewModel.cs",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\RegisterVviewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:03:34.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T15:02:55.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountDTO.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\AccountDTO.cs",
-              "RelativeDocumentMoniker": "Models\\AccountDTO.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\AccountDTO.cs",
-              "RelativeToolTip": "Models\\AccountDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T16:02:24.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\BookViewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\BookViewModel.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\BookViewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\BookViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T11:42:42.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Program.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T12:11:44.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\BookController.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:42:07.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BooksAPIDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Data\\BooksAPIDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\BooksAPIDbContext.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Data\\BooksAPIDbContext.cs",
-              "RelativeToolTip": "Data\\BooksAPIDbContext.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAewBoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T08:12:15.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T08:18:53.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\BookDTO.cs",
-              "RelativeDocumentMoniker": "Models\\BookDTO.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\BookDTO.cs",
-              "RelativeToolTip": "Models\\BookDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T08:08:36.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T14:46:37.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\CartController.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:43:21.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAADwvy8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T13:04:10.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CartViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\CartViewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\CartViewModel.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\CartViewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\CartViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:41:30.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T12:03:00.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T15:03:34.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:02:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\AccountDTO.cs",
+              "RelativeToolTip": "Models\\AccountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T16:02:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\BookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:42:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Program.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:11:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:42:07.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Data\\BooksAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BooksAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Data\\BooksAPIDbContext.cs",
+              "RelativeToolTip": "Data\\BooksAPIDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAewBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:12:15.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:18:53.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Models\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\BookDTO.cs",
+              "RelativeToolTip": "Models\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:08:36.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T14:46:37.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:43:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:04:10.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:41:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T12:03:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T14:59:28.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T14:52:37.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T14:58:59.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAcwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T14:50:18.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\Cart\\Checkout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T14:47:12.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T13:11:28.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Program.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAcwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\appsettings.json",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -498,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
               "Title": "UpdateBook.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\UpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\UpdateBook.cs",
               "RelativeDocumentMoniker": "Models\\UpdateBook.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\UpdateBook.cs",
               "RelativeToolTip": "Models\\UpdateBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 8,
               "Title": "AddBook.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\AddBook.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\AddBook.cs",
               "RelativeDocumentMoniker": "Models\\AddBook.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Models\\AddBook.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Models\\AddBook.cs",
               "RelativeToolTip": "Models\\AddBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -522,47 +504,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\appsettings.json",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\appsettings.json",
-              "RelativeToolTip": "..\\ShopBook187MVC\\appsettings.json",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\appsettings.json",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-15T13:48:36.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T13:01:45.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "..\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "..\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\ShopBook187MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-15T13:01:43.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -570,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -582,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 11,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -594,11 +576,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 12,
               "Title": "BooksAPIDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Migrations\\BooksAPIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Migrations\\BooksAPIDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\BooksAPIDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Migrations\\BooksAPIDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Migrations\\BooksAPIDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\BooksAPIDbContextModelSnapshot.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAcwDwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -606,11 +588,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 13,
               "Title": "20240615083034_BookShop.cs",
-              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Migrations\\20240615083034_BookShop.cs",
+              "DocumentMoniker": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Migrations\\20240615083034_BookShop.cs",
               "RelativeDocumentMoniker": "Migrations\\20240615083034_BookShop.cs",
-              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187\\Migrations\\20240615083034_BookShop.cs",
+              "ToolTip": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\Migrations\\20240615083034_BookShop.cs",
               "RelativeToolTip": "Migrations\\20240615083034_BookShop.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAUwC0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

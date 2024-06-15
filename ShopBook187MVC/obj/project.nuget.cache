@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X84K4rxXPahQuhYINd9NE0l2+4QNXpJAtbPRLlHr5wHCzVZ3hxaBO8G3t7HllVvorok2s3d7HH54dJgedC/IAQ==",
+  "dgSpecHash": "8OMMn5UUHhBPlpEFAxoJ4+ZByFzK58HPhIB2mcoKWoofo6IjngQ3ZcCe4q/t1Ifiy41DK5MMqWte7r+6XPFTKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\ShopBook187MVC.csproj",
+  "projectFilePath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187MVC\\ShopBook187MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\royal\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\royal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

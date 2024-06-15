@@ -5411,11 +5411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\royal\\source\\repos\\ShopBook187\\ShopBook187.csproj",
+      "projectUniqueName": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\ShopBook187.csproj",
       "projectName": "ShopBook187",
-      "projectPath": "C:\\Users\\royal\\source\\repos\\ShopBook187\\ShopBook187.csproj",
+      "projectPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\ShopBook187.csproj",
       "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\royal\\source\\repos\\ShopBook187\\obj\\",
+      "outputPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ddmjfsp52vDYJVLeO1pWM/9N4sqZmqXpEDnbydBuadQXg9pov6qLRcSTMyq3Yk98aFzuobXDa7rG6rSUUejS+g==",
+  "dgSpecHash": "tVBgXpLOjPdpUhDqu63Tg6JrMcJl31zFWAVp0qi45VbMmnnLgMOgfiQ43Hd7yhcUv7FhS4vfZojkq/CmvbwmOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\royal\\source\\repos\\ShopBook187\\ShopBook187.csproj",
+  "projectFilePath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187\\ShopBook187.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\royal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\royal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

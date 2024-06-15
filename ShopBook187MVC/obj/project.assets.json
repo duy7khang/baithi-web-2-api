@@ -9550,11 +9550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\ShopBook187MVC.csproj",
+      "projectUniqueName": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187MVC\\ShopBook187MVC.csproj",
       "projectName": "ShopBook187MVC",
-      "projectPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\ShopBook187MVC.csproj",
+      "projectPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187MVC\\ShopBook187MVC.csproj",
       "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVC\\obj\\",
+      "outputPath": "C:\\Users\\royal\\source\\repos\\ShopBook187MVCAPI\\ShopBook187MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",
